@@ -1,0 +1,102 @@
+C:\Users\User1\source\repos\CreateNavigationView\NavigationView\obj\Debug\NavigationView.csprojAssemblyReference.cache
+C:\Users\User1\source\repos\CreateNavigationView\NavigationView\obj\Debug\NavigationView.Form1.resources
+C:\Users\User1\source\repos\CreateNavigationView\NavigationView\obj\Debug\NavigationView.Properties.Resources.resources
+C:\Users\User1\source\repos\CreateNavigationView\NavigationView\obj\Debug\NavigationView.UserControls.UserControl1.resources
+C:\Users\User1\source\repos\CreateNavigationView\NavigationView\obj\Debug\NavigationView.UserControls.UserControl2.resources
+C:\Users\User1\source\repos\CreateNavigationView\NavigationView\obj\Debug\NavigationView.UserControls.UserControl3.resources
+C:\Users\User1\source\repos\CreateNavigationView\NavigationView\obj\Debug\NavigationView.csproj.GenerateResource.cache
+C:\Users\User1\source\repos\CreateNavigationView\NavigationView\obj\Debug\NavigationView.csproj.CoreCompileInputs.cache
+C:\Users\User1\source\repos\CreateNavigationView\NavigationView\bin\Debug\NavigationView.exe.config
+C:\Users\User1\source\repos\CreateNavigationView\NavigationView\bin\Debug\NavigationView.exe
+C:\Users\User1\source\repos\CreateNavigationView\NavigationView\bin\Debug\NavigationView.pdb
+C:\Users\User1\source\repos\CreateNavigationView\NavigationView\obj\Debug\NavigationView.exe
+C:\Users\User1\source\repos\CreateNavigationView\NavigationView\obj\Debug\NavigationView.pdb
+C:\Users\NCBMKH005\Downloads\CreateNavigationView\CreateNavigationView\NavigationView\bin\Debug\NavigationView.exe.config
+C:\Users\NCBMKH005\Downloads\CreateNavigationView\CreateNavigationView\NavigationView\bin\Debug\NavigationView.exe
+C:\Users\NCBMKH005\Downloads\CreateNavigationView\CreateNavigationView\NavigationView\bin\Debug\NavigationView.pdb
+C:\Users\NCBMKH005\Downloads\CreateNavigationView\CreateNavigationView\NavigationView\obj\Debug\NavigationView.csprojAssemblyReference.cache
+C:\Users\NCBMKH005\Downloads\CreateNavigationView\CreateNavigationView\NavigationView\obj\Debug\NavigationView.Form1.resources
+C:\Users\NCBMKH005\Downloads\CreateNavigationView\CreateNavigationView\NavigationView\obj\Debug\NavigationView.Properties.Resources.resources
+C:\Users\NCBMKH005\Downloads\CreateNavigationView\CreateNavigationView\NavigationView\obj\Debug\NavigationView.UserControls.UserControl1.resources
+C:\Users\NCBMKH005\Downloads\CreateNavigationView\CreateNavigationView\NavigationView\obj\Debug\NavigationView.UserControls.UserControl2.resources
+C:\Users\NCBMKH005\Downloads\CreateNavigationView\CreateNavigationView\NavigationView\obj\Debug\NavigationView.UserControls.UserControl3.resources
+C:\Users\NCBMKH005\Downloads\CreateNavigationView\CreateNavigationView\NavigationView\obj\Debug\NavigationView.csproj.GenerateResource.cache
+C:\Users\NCBMKH005\Downloads\CreateNavigationView\CreateNavigationView\NavigationView\obj\Debug\NavigationView.csproj.CoreCompileInputs.cache
+C:\Users\NCBMKH005\Downloads\CreateNavigationView\CreateNavigationView\NavigationView\obj\Debug\NavigationView.exe
+C:\Users\NCBMKH005\Downloads\CreateNavigationView\CreateNavigationView\NavigationView\obj\Debug\NavigationView.pdb
+C:\Users\NCBMKH005\OneDrive - University of Cape Town\Poppel\CreateNavigationView\NavigationView\bin\Debug\NavigationView.exe.config
+C:\Users\NCBMKH005\OneDrive - University of Cape Town\Poppel\CreateNavigationView\NavigationView\bin\Debug\NavigationView.exe
+C:\Users\NCBMKH005\OneDrive - University of Cape Town\Poppel\CreateNavigationView\NavigationView\bin\Debug\NavigationView.pdb
+C:\Users\NCBMKH005\OneDrive - University of Cape Town\Poppel\CreateNavigationView\NavigationView\obj\Debug\NavigationView.csprojAssemblyReference.cache
+C:\Users\NCBMKH005\OneDrive - University of Cape Town\Poppel\CreateNavigationView\NavigationView\obj\Debug\NavigationView.Form1.resources
+C:\Users\NCBMKH005\OneDrive - University of Cape Town\Poppel\CreateNavigationView\NavigationView\obj\Debug\NavigationView.Properties.Resources.resources
+C:\Users\NCBMKH005\OneDrive - University of Cape Town\Poppel\CreateNavigationView\NavigationView\obj\Debug\NavigationView.UserControls.CreateCustomer.resources
+C:\Users\NCBMKH005\OneDrive - University of Cape Town\Poppel\CreateNavigationView\NavigationView\obj\Debug\NavigationView.UserControls.UserControl1.resources
+C:\Users\NCBMKH005\OneDrive - University of Cape Town\Poppel\CreateNavigationView\NavigationView\obj\Debug\NavigationView.UserControls.UserControl2.resources
+C:\Users\NCBMKH005\OneDrive - University of Cape Town\Poppel\CreateNavigationView\NavigationView\obj\Debug\NavigationView.UserControls.UserControl3.resources
+C:\Users\NCBMKH005\OneDrive - University of Cape Town\Poppel\CreateNavigationView\NavigationView\obj\Debug\NavigationView.csproj.GenerateResource.cache
+C:\Users\NCBMKH005\OneDrive - University of Cape Town\Poppel\CreateNavigationView\NavigationView\obj\Debug\NavigationView.csproj.CoreCompileInputs.cache
+C:\Users\NCBMKH005\OneDrive - University of Cape Town\Poppel\CreateNavigationView\NavigationView\obj\Debug\NavigationView.exe
+C:\Users\NCBMKH005\OneDrive - University of Cape Town\Poppel\CreateNavigationView\NavigationView\obj\Debug\NavigationView.pdb
+C:\Users\NCBMKH005\OneDrive - University of Cape Town\Poppel\CreateNavigationView\NavigationView\obj\Debug\NavigationView.UserControls.AllCustomersControl.resources
+C:\Users\NCBMKH005\OneDrive - University of Cape Town\Poppel\CreateNavigationView\NavigationView\obj\Debug\NavigationView.UserControls.AllOrdersControl.resources
+C:\Users\NCBMKH005\OneDrive - University of Cape Town\Poppel\CreateNavigationView\NavigationView\obj\Debug\NavigationView.UserControls.CreateOrderControl.resources
+C:\Users\NCBMKH005\OneDrive - University of Cape Town\Poppel\CreateNavigationView\NavigationView\obj\Debug\NavigationView.UserControls.InventoryControl.resources
+C:\Users\NCBMKH005\OneDrive - University of Cape Town\Poppel\CreateNavigationView\NavigationView\bin\Debug\Database1DataSet2.Designer.cs
+C:\Users\NCBMKH005\OneDrive - University of Cape Town\Poppel\CreateNavigationView\NavigationView\bin\Debug\Database1DataSet2.xsc
+C:\Users\NCBMKH005\OneDrive - University of Cape Town\Poppel\CreateNavigationView\NavigationView\bin\Debug\Database1DataSet2.xsd
+C:\Users\NCBMKH005\OneDrive - University of Cape Town\Poppel\CreateNavigationView\NavigationView\bin\Debug\Database1DataSet2.xss
+C:\Users\NCBMKH005\OneDrive - University of Cape Town\Poppel\CreateNavigationView\NavigationView\obj\Debug\NavigationView.UserControls.CreateInventory.resources
+C:\Users\NCBMKH005\OneDrive - University of Cape Town\Poppel\CreateNavigationView\NavigationView\bin\Debug\UserControls\Database1.mdf
+C:\Users\NCBMKH005\OneDrive - University of Cape Town\Poppel\CreateNavigationView\NavigationView\bin\Debug\UserControls\Database1_log.ldf
+C:\Users\NCBMKH005\Documents\Project\NavigationView\bin\Debug\Database1DataSet2.Designer.cs
+C:\Users\NCBMKH005\Documents\Project\NavigationView\bin\Debug\Database1DataSet2.xsc
+C:\Users\NCBMKH005\Documents\Project\NavigationView\bin\Debug\Database1DataSet2.xsd
+C:\Users\NCBMKH005\Documents\Project\NavigationView\bin\Debug\Database1DataSet2.xss
+C:\Users\NCBMKH005\Documents\Project\NavigationView\bin\Debug\UserControls\Database1.mdf
+C:\Users\NCBMKH005\Documents\Project\NavigationView\bin\Debug\UserControls\Database1_log.ldf
+C:\Users\NCBMKH005\Documents\Project\NavigationView\bin\Debug\NavigationView.exe.config
+C:\Users\NCBMKH005\Documents\Project\NavigationView\bin\Debug\NavigationView.exe
+C:\Users\NCBMKH005\Documents\Project\NavigationView\bin\Debug\NavigationView.pdb
+C:\Users\NCBMKH005\Documents\Project\NavigationView\obj\Debug\NavigationView.csprojAssemblyReference.cache
+C:\Users\NCBMKH005\Documents\Project\NavigationView\obj\Debug\NavigationView.Form1.resources
+C:\Users\NCBMKH005\Documents\Project\NavigationView\obj\Debug\NavigationView.Properties.Resources.resources
+C:\Users\NCBMKH005\Documents\Project\NavigationView\obj\Debug\NavigationView.UserControls.AllCustomersControl.resources
+C:\Users\NCBMKH005\Documents\Project\NavigationView\obj\Debug\NavigationView.UserControls.AllOrdersControl.resources
+C:\Users\NCBMKH005\Documents\Project\NavigationView\obj\Debug\NavigationView.UserControls.CreateCustomer.resources
+C:\Users\NCBMKH005\Documents\Project\NavigationView\obj\Debug\NavigationView.UserControls.CreateInventory.resources
+C:\Users\NCBMKH005\Documents\Project\NavigationView\obj\Debug\NavigationView.UserControls.CreateOrderControl.resources
+C:\Users\NCBMKH005\Documents\Project\NavigationView\obj\Debug\NavigationView.UserControls.InventoryControl.resources
+C:\Users\NCBMKH005\Documents\Project\NavigationView\obj\Debug\NavigationView.UserControls.UserControl1.resources
+C:\Users\NCBMKH005\Documents\Project\NavigationView\obj\Debug\NavigationView.UserControls.UserControl2.resources
+C:\Users\NCBMKH005\Documents\Project\NavigationView\obj\Debug\NavigationView.UserControls.UserControl3.resources
+C:\Users\NCBMKH005\Documents\Project\NavigationView\obj\Debug\NavigationView.csproj.GenerateResource.cache
+C:\Users\NCBMKH005\Documents\Project\NavigationView\obj\Debug\NavigationView.csproj.CoreCompileInputs.cache
+C:\Users\NCBMKH005\Documents\Project\NavigationView\obj\Debug\NavigationView.exe
+C:\Users\NCBMKH005\Documents\Project\NavigationView\obj\Debug\NavigationView.pdb
+C:\Users\tshep\Downloads\Project\Project\NavigationView\bin\Debug\Database1DataSet2.Designer.cs
+C:\Users\tshep\Downloads\Project\Project\NavigationView\bin\Debug\Database1DataSet2.xsc
+C:\Users\tshep\Downloads\Project\Project\NavigationView\bin\Debug\Database1DataSet2.xsd
+C:\Users\tshep\Downloads\Project\Project\NavigationView\bin\Debug\Database1DataSet2.xss
+C:\Users\tshep\Downloads\Project\Project\NavigationView\bin\Debug\NavigationView.exe.config
+C:\Users\tshep\Downloads\Project\Project\NavigationView\bin\Debug\NavigationView.exe
+C:\Users\tshep\Downloads\Project\Project\NavigationView\bin\Debug\NavigationView.pdb
+C:\Users\tshep\Downloads\Project\Project\NavigationView\obj\Debug\NavigationView.csproj.AssemblyReference.cache
+C:\Users\tshep\Downloads\Project\Project\NavigationView\obj\Debug\NavigationView.Form1.resources
+C:\Users\tshep\Downloads\Project\Project\NavigationView\obj\Debug\NavigationView.Properties.Resources.resources
+C:\Users\tshep\Downloads\Project\Project\NavigationView\obj\Debug\NavigationView.UserControls.AllCustomersControl.resources
+C:\Users\tshep\Downloads\Project\Project\NavigationView\obj\Debug\NavigationView.UserControls.AllOrdersControl.resources
+C:\Users\tshep\Downloads\Project\Project\NavigationView\obj\Debug\NavigationView.UserControls.CreateCustomer.resources
+C:\Users\tshep\Downloads\Project\Project\NavigationView\obj\Debug\NavigationView.UserControls.CreateInventory.resources
+C:\Users\tshep\Downloads\Project\Project\NavigationView\obj\Debug\NavigationView.UserControls.CreateOrderControl.resources
+C:\Users\tshep\Downloads\Project\Project\NavigationView\obj\Debug\NavigationView.UserControls.InventoryControl.resources
+C:\Users\tshep\Downloads\Project\Project\NavigationView\obj\Debug\NavigationView.UserControls.UserControl1.resources
+C:\Users\tshep\Downloads\Project\Project\NavigationView\obj\Debug\NavigationView.UserControls.UserControl2.resources
+C:\Users\tshep\Downloads\Project\Project\NavigationView\obj\Debug\NavigationView.UserControls.UserControl3.resources
+C:\Users\tshep\Downloads\Project\Project\NavigationView\obj\Debug\NavigationView.csproj.GenerateResource.cache
+C:\Users\tshep\Downloads\Project\Project\NavigationView\obj\Debug\NavigationView.csproj.CoreCompileInputs.cache
+C:\Users\tshep\Downloads\Project\Project\NavigationView\obj\Debug\NavigationView.exe
+C:\Users\tshep\Downloads\Project\Project\NavigationView\obj\Debug\NavigationView.pdb
+C:\Users\tshep\Downloads\Project\Project\NavigationView\obj\Debug\NavigationView.UserControls.EditOrderControl.resources
+C:\Users\tshep\Downloads\Project\Project\NavigationView\bin\Debug\PresentationLayer\UserControls\Database1.mdf
+C:\Users\tshep\Downloads\Project\Project\NavigationView\bin\Debug\PresentationLayer\UserControls\Database1_log.ldf
